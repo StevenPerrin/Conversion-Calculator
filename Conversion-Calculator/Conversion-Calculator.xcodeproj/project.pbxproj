@@ -14,6 +14,7 @@
 		C65983A922600345001A3EA4 /* Conversion_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65983A822600345001A3EA4 /* Conversion_CalculatorTests.swift */; };
 		C65983B422600345001A3EA4 /* Conversion_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65983B322600345001A3EA4 /* Conversion_CalculatorUITests.swift */; };
 		C65983C2226003A1001A3EA4 /* ConverterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C65983C1226003A1001A3EA4 /* ConverterViewController.swift */; };
+		C66BD27E226154A800899F97 /* ConverterStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66BD27D226154A800899F97 /* ConverterStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C65983B322600345001A3EA4 /* Conversion_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversion_CalculatorUITests.swift; sourceTree = "<group>"; };
 		C65983B522600345001A3EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C65983C1226003A1001A3EA4 /* ConverterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterViewController.swift; sourceTree = "<group>"; };
+		C66BD27D226154A800899F97 /* ConverterStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				C659839322600344001A3EA4 /* AppDelegate.swift */,
 				C659839722600344001A3EA4 /* Main.storyboard */,
 				C65983C1226003A1001A3EA4 /* ConverterViewController.swift */,
+				C66BD27D226154A800899F97 /* ConverterStruct.swift */,
 				C659839A22600345001A3EA4 /* Assets.xcassets */,
 				C659839C22600345001A3EA4 /* LaunchScreen.storyboard */,
 				C659839F22600345001A3EA4 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				C659839422600344001A3EA4 /* AppDelegate.swift in Sources */,
 				C65983C2226003A1001A3EA4 /* ConverterViewController.swift in Sources */,
+				C66BD27E226154A800899F97 /* ConverterStruct.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
